@@ -2406,40 +2406,6 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
-@media (max-width: 768px) {
-  /* About */
-  .about-title {
-    font-size: 1.4rem;
-    text-align: center;
-  }
-
-  .about-description {
-    font-size: 1rem;
-    text-align: justify;
-  }
-
-  /* Services h3 */
-  #services h3 {
-    font-size: 1.25rem;
-    text-align: center;
-    margin-top: 0.5rem;
-  }
-
-  /* Call to Action */
-  #call-to-action-2 h3 {
-    font-size: 1.4rem;
-    text-align: center;
-    padding: 0 1rem;
-  }
-
-  /* Faq Image */
-  #faq img {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
-  }
-}
 
 
 /*--------------------------------------------------------------
